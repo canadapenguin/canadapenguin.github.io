@@ -28,8 +28,12 @@ Hisa.ca/zu（渡辺寿和）の日本語Web小説『彼女たちのカナディ�
 
 ##その他の公開場所
 私個人のウェブサイト『カナダペンギンは鋼鉄鮭の夢をみるか？』、『カクヨム』、『小説家になろう』にも公開中。
+
 http://hisa.ca/zu/kittaka-san/
+
 https://kakuyomu.jp/works/1177354054881634718
+
 http://ncode.syosetu.com/n9414dn/
+
 ##著作権
 著作権は、hisa.ca/zuにあります。
